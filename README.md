@@ -28,7 +28,7 @@ I am Raghav Sikaria, currently a Specialist Software Engineer at Societe General
 
 #### My Projects & Blogs
 
-Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects based on Finance domain. I have written detailed blogs for my Finance domain & other ML based projects. Here are some direct links to get to them:
+Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects based on Finance domain. Here are some direct links to get to them:
 
 | Project | Project Repository | Project Writeup/Blog |
 | :---:         |     :---:      | :---: |
