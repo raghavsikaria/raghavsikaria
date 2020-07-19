@@ -11,17 +11,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+- OTHER VIEW COUNTERS
 ![Visitor Count](https://profile-counter.glitch.me/raghavsikaria/count.svg)
 [![HitCount](http://hits.dwyl.com/raghavsikaria/raghavsikaria.svg)](http://hits.dwyl.com/raghavsikaria/raghavsikaria)
-![ViewCount](https://views.whatilearened.today/views/github/raghavsikaria/raghavsikaria.svg)
+-->
 
+
+[![ViewCount](https://views.whatilearened.today/views/github/raghavsikaria/raghavsikaria.svg)](https://github.com/raghavsikaria) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/raghavsikaria)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/raghavsikaria)
+
+<br>
+
+[![Website](https://img.shields.io/badge/-My_Website-black?style=flat-square&logo=Nextdoor&logoColor=white&color=black&link=https://raghavsikaria.github.io/)](https://raghavsikaria.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-raghavsikaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghavsikaria/)](https://www.linkedin.com/in/raghavsikaria/)
 [![Gmail Badge](https://img.shields.io/badge/-raghavsikaria9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavsikaria9@gmail.com)](mailto:raghavsikaria9@gmail.com)
-[![Website](https://img.shields.io/badge/-My_Website-black?style=flat-square&logo=Nextdoor&logoColor=black&color=black&link=https://raghavsikaria.github.io/)](https://raghavsikaria.github.io/)
 
 ### Hi there 👋
+
+<img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.jpg' alt = 'This is me!' align='right'/>
 
 I am Raghav Sikaria, currently a Specialist Software Engineer at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I aspire to work in the FinTech domain, more specifically Data Science. I also am exploring Quantitative Finance.
 
