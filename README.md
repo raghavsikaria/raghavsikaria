@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/raghavsikaria/count.svg)
 [![HitCount](http://hits.dwyl.com/raghavsikaria/raghavsikaria.svg)](http://hits.dwyl.com/raghavsikaria/raghavsikaria)
+![ViewCount](https://views.whatilearened.today/views/github/raghavsikaria/raghavsikaria.svg)
 
 ### Hi there 👋
 
