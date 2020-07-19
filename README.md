@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.png' height="370" width="370" alt = 'This is me!' align='right'/>
+<img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.png' height="330" width="330" alt = 'This is me!' align='right'/>
 
 I am Raghav Sikaria, currently a Specialist Software Engineer at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I aspire to work in the FinTech domain, more specifically Data Science. I also am exploring Quantitative Finance.
 
