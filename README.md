@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 
 [![ViewCount](https://views.whatilearened.today/views/github/raghavsikaria/raghavsikaria.svg)](https://github.com/raghavsikaria) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/raghavsikaria)  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/raghavsikaria)
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/raghavsikaria)
 <br>
 
 [![Website](https://img.shields.io/badge/-My_Website-black?style=flat-square&logo=Nextdoor&logoColor=white&color=black&link=https://raghavsikaria.github.io/)](https://raghavsikaria.github.io/)
@@ -30,16 +28,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.jpg' alt = 'This is me!' align='right'/>
+<img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.jpg' height="500" width="500" alt = 'This is me!' align='right'/>
 
 I am Raghav Sikaria, currently a Specialist Software Engineer at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I aspire to work in the FinTech domain, more specifically Data Science. I also am exploring Quantitative Finance.
 
 - 🌱 I’m currently learning Machine Learning algorithms, demystifying their underlying Math and exploring Time Series Analysis
 - 👯 I’m looking to collaborate on the project [NIFTYBANK - Time Series Analysis, Prediction & Hyper Parameter Optimization](https://github.com/raghavsikaria/Project-Rajasuyya)
-- ⚡ My website: You can visit my website - [raghavsikaria.github.io](raghavsikaria.github.io) to know more about my projects, blogs & me
-- 📫 How to reach me:
-  - LinkedIn: [linkedin.com/in/raghavsikaria/](linkedin.com/in/raghavsikaria/)
-  - GMail: raghavsikaria9@gmail.com
+- ⚡ You can visit my website - [raghavsikaria.github.io](raghavsikaria.github.io) to know more about my projects, blogs & me
 
 ![Raghav Sikaria GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raghavsikaria&show_icons=true&theme=dracula)
 
