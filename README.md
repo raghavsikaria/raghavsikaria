@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 [![HitCount](http://hits.dwyl.com/raghavsikaria/raghavsikaria.svg)](http://hits.dwyl.com/raghavsikaria/raghavsikaria)
 ![ViewCount](https://views.whatilearened.today/views/github/raghavsikaria/raghavsikaria.svg)
 
+[![Linkedin Badge](https://img.shields.io/badge/-raghavsikaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghavsikaria/)](https://www.linkedin.com/in/raghavsikaria/)
+[![Gmail Badge](https://img.shields.io/badge/-raghavsikaria9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavsikaria9@gmail.com)](mailto:raghavsikaria9@gmail.com)
+
 ### Hi there 👋
 
 I am Raghav Sikaria, currently a Specialist Software Engineer at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I aspire to work in the FinTech domain, more specifically Data Science. I also am exploring Quantitative Finance.
