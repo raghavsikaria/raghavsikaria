@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visitor Count](https : //profile-counter.glitch.me/raghavsikaria/count.svg)
+
 ### Hi there 👋
 
 I am Raghav Sikaria, currently a Specialist Software Engineer at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I aspire to work in the FinTech domain, more specifically Data Science. I also am exploring Quantitative Finance.
