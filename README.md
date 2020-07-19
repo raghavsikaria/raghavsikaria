@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https : //profile-counter.glitch.me/raghavsikaria/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/raghavsikaria/count.svg)
 
 ### Hi there 👋
 
