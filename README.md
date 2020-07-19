@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-raghavsikaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghavsikaria/)](https://www.linkedin.com/in/raghavsikaria/)
 [![Gmail Badge](https://img.shields.io/badge/-raghavsikaria9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raghavsikaria9@gmail.com)](mailto:raghavsikaria9@gmail.com)
-[![Website](https://img.shields.io/badge/-My_Website-white?style=flat-square&logo=Nextdoor&labelColor=white&color=black&link=https://raghavsikaria.github.io/)](https://raghavsikaria.github.io/)
+[![Website](https://img.shields.io/badge/-My_Website-black?style=flat-square&logo=Nextdoor&logoColor=white&labelColor=white&color=black&link=https://raghavsikaria.github.io/)](https://raghavsikaria.github.io/)
 
 ### Hi there 👋
 
