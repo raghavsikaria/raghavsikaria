@@ -28,7 +28,7 @@ I am Raghav Sikaria, currently a Specialist Software Engineer at Societe General
 
 #### My Projects & Blogs
 
-Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects based on Finance domain. Here are some direct links to get to them:
+Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects based on Finance domain. Here are direct links for some of them:
 
 | Project | Project Repository | Project Writeup/Blog |
 | :---:         |     :---:      | :---: |
@@ -41,3 +41,4 @@ And for covering underlying Mathematics in ML Algorithms, I have started my [Kno
 
 - [Know The Math - Everything Logistic Regression](https://raghavsikaria.github.io/posts/2020-07-01-ktm-logistic-regression)
 - [Know The Math - Linear Regression & the Coefficients via Ordinary Least Squares](https://raghavsikaria.github.io/posts/2020-06-25-ktm-linear-regression)
+- [Know The Math - The PCA](https://raghavsikaria.github.io/posts/2020-07-16-ktm-pca)
