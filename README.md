@@ -26,7 +26,7 @@ I am Raghav Sikaria, currently a Specialist Software Engineer at Societe General
   - LinkedIn: [linkedin.com/in/raghavsikaria/](linkedin.com/in/raghavsikaria/)
   - GMail: raghavsikaria9@gmail.com
 
-<span><b><center>![Raghav Sikaria GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raghavsikaria&show_icons=true)</b></span> 
+![Raghav Sikaria GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raghavsikaria&show_icons=true&theme=dracula)
 
 #### My Projects & Blogs
 
