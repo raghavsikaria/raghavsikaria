@@ -34,7 +34,7 @@ I am Raghav Sikaria, currently a Specialist Software Engineer at Societe General
 
 - 🌱 I’m currently learning Machine Learning algorithms, demystifying their underlying Math and exploring Time Series Analysis
 - 👯 I’m looking to collaborate on the project [NIFTYBANK - Time Series Analysis, Prediction & Hyper Parameter Optimization](https://github.com/raghavsikaria/Project-Rajasuyya)
-- ⚡ You can visit my website - [raghavsikaria.github.io](raghavsikaria.github.io) to know more about my projects, blogs & me
+- ⚡ You can visit my website - [raghavsikaria.github.io](https://raghavsikaria.github.io) to know more about my projects, blogs & me
 
 ![Raghav Sikaria GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raghavsikaria&show_icons=true&theme=dracula)
 
