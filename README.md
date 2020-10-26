@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.png' height="330" width="330" alt = 'This is me!' align='right'/>
 
-I am Raghav Sikaria, currently a Specialist Software Engineer at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I aspire to work in the domain of Data Science. I also am exploring Quantitative Finance as a hobby.
+I am Raghav Sikaria, currently a Data Scientist at Societe Generale here in Bengaluru and have cleared the CFA Level 1 examination. I also am exploring Quantitative Finance as a hobby.
 
 - 🌱 I’m currently learning Machine Learning algorithms, demystifying their underlying Math and exploring Time Series Analysis
 - 👯 I’m looking to collaborate on the project [NIFTYBANK - Time Series Analysis, Prediction & Hyper Parameter Optimization](https://github.com/raghavsikaria/Project-Rajasuyya)
