@@ -30,17 +30,15 @@ Here are some ideas to get you started:
 
 <img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.png' height="330" width="330" alt = 'This is me!' align='right'/>
 
-I am Raghav Sikaria, currently, an Associate at Goldman Sachs here in Bengaluru and have cleared the CFA Level 1 examination. Previously I've worked as a Data Scientist at Societe Generale. I also am exploring Quantitative Finance as a hobby.
+I am Raghav Sikaria, currently pursuing MS in Computer Science at New York University here in New York in United States. I have 4 years of professional experience at world's biggest banks - Goldman Sachs & Societe Generale. I am into Software Engineering and everything Data. My passion in finance led me to clear the CFA Level 1 examination also. _I am currently looking for internship opportunities for the Summer of 2023 - in any domain!_
 
-- 🌱 I’m currently learning Machine Learning algorithms, demystifying their underlying Math and exploring Time Series Analysis
-- 👯 I’m looking to collaborate on the project [NIFTYBANK - Time Series Analysis, Prediction & Hyper Parameter Optimization](https://github.com/raghavsikaria/Project-Rajasuyya)
 - ⚡ You can visit my website - [raghavsikaria.github.io](https://raghavsikaria.github.io) to know more about my projects, blogs & me
 
 ![Raghav Sikaria GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raghavsikaria&show_icons=true&theme=dracula)
 
 #### My Projects & Blogs
 
-Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects based on Finance domain. Here are direct links for some of them:
+Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects. Here are direct links for some of them:
 
 | Project | Project Repository | Project Writeup/Blog |
 | :---:         |     :---:      | :---: |
