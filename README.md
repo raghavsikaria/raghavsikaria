@@ -30,25 +30,29 @@ Here are some ideas to get you started:
 
 <img src = 'https://github.com/raghavsikaria/raghavsikaria/blob/master/assets/my_profile.png' height="330" width="330" alt = 'This is me!' align='right'/>
 
-I am Raghav Sikaria, currently pursuing MS in Computer Science at New York University here in New York in United States. I have 4 years of professional experience at world's biggest banks - Goldman Sachs & Societe Generale. I am into Software Engineering and everything Data. My passion in finance led me to clear the CFA Level 1 examination also. _I am currently looking for internship opportunities for the Summer of 2023 - in any domain!_
+I am Raghav Sikaria, a MS in Computer Science graduate at New York University here in New York in United States. I have 5 years of professional experience at world's biggest banks - Capital One, Goldman Sachs & Societe Generale. I am into Software Engineering and everything Data.
 
 - ⚡ You can visit my website - [raghavsikaria.github.io](https://raghavsikaria.github.io) to know more about my projects, blogs & me
 
-![Raghav Sikaria GitHub Statistics](https://github-readme-stats.vercel.app/api?username=raghavsikaria&show_icons=true&theme=dracula)
-
 #### My Projects & Blogs
 
-Ever since the COVID lockdown began here in India, I have blogged religiously on Machine Learning algorithms and taken up quite a few projects. Here are direct links for some of them:
+Ever since the COVID lockdown began here in India, I have followed blogging almost religiously and taken up quite a few projects. Here are direct links for some of them:
+
+Here are some of my recent write-ups on software-engineering:
+
+| Project | Project Writeup/Blog |
+| :---: | :---: |
+| Thread-safe LRU & MRU cache in Python | [Blog](https://raghavsikaria.github.io/lru-and-mru-cache-in-python/) |
+| Multithreading vs Multiprocessing in Python, and when to use which! | [Blog](https://raghavsikaria.github.io/multithreading-vs-multiprocessing-in-python/) |
+
+Some data & visualization projects based on Python:
 
 | Project | Project Repository | Project Writeup/Blog |
 | :---:         |     :---:      | :---: |
+| To FAANG or NOT to FAANG, that is the question! | [Observable Visual Repository](https://observablehq.com/@raghavsikaria/project-artibeus-final-submission) | [Blog](https://raghavsikaria.github.io/nyu-sem-1-project-artibeus/) |
+| Find those tweets! - an NLP + Clustering cute short story | [Repository](https://github.com/raghavsikaria/Project-Corynorhinus) | [Blog](https://raghavsikaria.github.io/project-find-the-similar-tweet/) |
 | NIFTYBANK - Time Series Analysis, Prediction & Hyper Parameter Optimization | [Repository](https://github.com/raghavsikaria/Project-Rajasuyya) | [Blog](https://raghavsikaria.github.io/posts/2020-06-20-time-series-analysis-and-prediction) |
-| Portfolio Allocation & Efficient Frontier Generation | [Repository](https://github.com/raghavsikaria/Portfolio-Optimization-and-Efficient-Frontier) | [Blog](https://raghavsikaria.github.io/posts/2020-05-31-portfolio-allocation-and-efficient-frontier-generation) |
 | Applying t-SNE to NIFTY50 Stock Day snapshot and visualizing all iterations using Bokeh(Python) - JSCallBacks & User Interactivity | [Repository](https://github.com/raghavsikaria/t-SNE-Visualization-on-NIFTY50) | [Blog](https://raghavsikaria.github.io/posts/2020-04-06-applying-t-sne-to-nifty50-stock-day-snapshot) |
 | Visualizing Correlation Matrix using Bokeh(Python) - User Interactivity and JSCallBacks | [Repository](https://github.com/raghavsikaria/Bokeh_CorrelationMatrix) | [Blog](https://raghavsikaria.github.io/posts/2020-03-27-visualizing-correlation-matrix-using-bokeh) |
 
-And for covering underlying Mathematics in ML Algorithms, I have started my [Know The Math series](https://raghavsikaria.github.io/tag/know_the_math) of blogs. Till now I have covered:
-
-- [Know The Math - Everything Logistic Regression](https://raghavsikaria.github.io/posts/2020-07-01-ktm-logistic-regression)
-- [Know The Math - Linear Regression & the Coefficients via Ordinary Least Squares](https://raghavsikaria.github.io/posts/2020-06-25-ktm-linear-regression)
-- [Know The Math - The PCA](https://raghavsikaria.github.io/posts/2020-07-16-ktm-pca)
+And for covering underlying Mathematics in Algorithms, I have started my [Know The Math series](https://raghavsikaria.github.io/tag/know_the_math) of blogs.
